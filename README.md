@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiru-eth
 - 👀 I’m interested in Blockchain - Ethereum & Bitcoin, Layer2, Wallets & DeFi
-- 🌱 I’m currently learning Solidity, Docker & K28
+- 🌱 I’m currently learning Solidity, Docker & K8S
 - 💞️ I’m looking to collaborate on opensource projects on Etherum 
 - 📫 I can be reached @thiru.www@gmail.com
 
